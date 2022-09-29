@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crud-web-app/static/css/main.031778ff.css",
+    "main.js": "/Crud-web-app/static/js/main.7ce0bc4b.js",
+    "index.html": "/Crud-web-app/index.html",
+    "main.031778ff.css.map": "/Crud-web-app/static/css/main.031778ff.css.map",
+    "main.7ce0bc4b.js.map": "/Crud-web-app/static/js/main.7ce0bc4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.031778ff.css",
+    "static/js/main.7ce0bc4b.js"
+  ]
+}
